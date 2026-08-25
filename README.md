@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/obsidia
 
 2. Open your Kettu / Rain etc. and go to themes and install with source URL.
 
-3. Enable the theme and enjoy!
+3. Enable the theme and done!
 
 ## ⚠️ FAQ 
 
