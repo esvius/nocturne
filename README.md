@@ -18,8 +18,6 @@
     <th align="center" width="210">🌊 <b>Navy</b></th>
     <th align="center" width="210">🖤 <b>Obsidian</b></th>
   </tr>
-</table>
-<table align="center">
   <tr>
     <td align="center"><img src="assets/light.jpg" height="300"/></td>
     <td align="center"><img src="assets/navy.jpg" height="300"/></td>
