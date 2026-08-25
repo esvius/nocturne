@@ -33,17 +33,17 @@
 
 Light
 ```bash
-https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Light.theme.json
+https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/light.theme.json
 ```
 
 Navy
 ```bash
-https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Navy.theme.json
+https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/navy.theme.json
 ```
 
 Obsidian
 ```bash
-https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Obsidian.theme.json
+https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/obsidian.theme.json
 ```
 
 2. Open your Kettu / Rain etc. and go to themes and install with source URL.
