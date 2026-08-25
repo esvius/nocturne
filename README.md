@@ -12,18 +12,9 @@
 
 ## Previews
 
-<table align="center">
-  <tr>
-    <th align="center" width="80">☀️ <b>Light</b></th>
-    <th align="center" width="80">🌊 <b>Navy</b></th>
-    <th align="center" width="80">🖤 <b>Obsidian</b></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/light.jpg" height="300"/></td>
-    <td align="center"><img src="assets/navy.jpg" height="300"/></td>
-    <td align="center"><img src="assets/obsidian.jpg" height="300"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/previews.png" alt="Nocturne Theme Previews" width="100%"/>
+</p>
 
 ## Usage
 
