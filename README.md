@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/obsidia
 > [!CAUTION]
 > **Using third party clients is against the ToS. We are not responsible for anything that might happen to your account by using third party clients. Use at your own risk.**
 
+<h3 align="center">
 ## Thanks
 
 - Everyone who contributes ideas, bug reports, and pull requests to Nocturne!
