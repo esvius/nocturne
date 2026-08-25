@@ -20,14 +20,6 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center">☀️ <b>Light</b><hr width="80%"/><img src="assets/light.jpg" width="220" height="300" style="object-fit: cover;"/></td>
-    <td align="center">🌊 <b>Navy</b><hr width="80%"/><img src="assets/navy.jpg" width="220" height="300" style="object-fit: cover;"/></td>
-    <td align="center">🖤 <b>Obsidian</b><hr width="80%"/><img src="assets/obsidian.jpg" width="220" height="300" style="object-fit: cover;"/></td>
-  </tr>
-</table>
-
 ## Usage
 
 ### Kettu / Rain / etc.
