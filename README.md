@@ -39,12 +39,10 @@ https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/obsidia
 
 3. Enable the theme and enjoy!
 
-## 🙋 FAQ 
-
 > [!CAUTION]
 > **Using third party clients is against the ToS. We are not responsible for anything that might happen to your account by using third party clients. Use at your own risk.**
 
-## 💝 Thanks to
+## Thanks
 
 - Everyone who contributes ideas, bug reports, and pull requests to Nocturne!
 
