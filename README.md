@@ -12,15 +12,13 @@
     <a href="https://github.com/esvius/nocturne/contributors"><img src="https://img.shields.io/github/contributors/esvius/nocturne?colorA=1a1b26&colorB=9ece6a&style=for-the-badge"></a>
 </p>
 
-![Nocturne Theme Preview](assets/preview.jpg)
-
-## Previews
+## 🏔️ Previews
 
 <p align="center">
   <img src="assets/previews.png" alt="Nocturne Theme Previews" width="100%"/>
 </p>
 
-## Usage
+## 📕 Usage
 
 ### Kettu / Rain / etc.
 
@@ -45,12 +43,12 @@ https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/obsidia
 
 3. Enable the theme and enjoy!
 
-## 🙋 FAQ 
+## ⚠️ FAQ 
 
 > [!CAUTION]
 > **Using third party clients is against the ToS. We are not responsible for anything that might happen to your account by using third party clients. Use at your own risk.**
 
-## 💝 Thanks to
+## 🤍 Thanks to
 
 - Everyone who contributes ideas, bug reports, and pull requests to Nocturne!
 
