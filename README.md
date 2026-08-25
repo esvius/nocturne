@@ -35,7 +35,7 @@
 - 🌊 [Navy](https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Navy.theme.json)
 - 🖤 [Obsidian](https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Obsidian.theme.json)
 
-2. Open your Kettu / Rain etc. and go to themes and add them.
+2. Open your Kettu / Rain etc. and go to themes and install with source URL.
 
 3. Enable the theme and enjoy!
 
