@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Nocturne Logo" width="150"/>
+</p>
+
 <h3 align="center">
 	Nocturne for <a href="https://discord.gg/WehrvxdF27">Discord</a>
 </h3>
@@ -7,6 +11,8 @@
     <a href="https://github.com/esvius/nocturne/issues"><img src="https://img.shields.io/github/issues/esvius/nocturne?colorA=1a1b26&colorB=f7768e&style=for-the-badge"></a>
     <a href="https://github.com/esvius/nocturne/contributors"><img src="https://img.shields.io/github/contributors/esvius/nocturne?colorA=1a1b26&colorB=9ece6a&style=for-the-badge"></a>
 </p>
+
+![Nocturne Theme Preview](assets/preview.jpg)
 
 ## Previews
 
@@ -39,13 +45,14 @@ https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/obsidia
 
 3. Enable the theme and enjoy!
 
+## 🙋 FAQ 
+
 > [!CAUTION]
 > **Using third party clients is against the ToS. We are not responsible for anything that might happen to your account by using third party clients. Use at your own risk.**
 
-<h3 align="center">
-Thanks
+## 💝 Thanks to
 
-Everyone who contributes ideas, bug reports, and pull requests to Nocturne!
+- Everyone who contributes ideas, bug reports, and pull requests to Nocturne!
 
 &nbsp;
 
