@@ -8,8 +8,6 @@
     <a href="https://github.com/esvius/nocturne/contributors"><img src="https://img.shields.io/github/contributors/esvius/nocturne?colorA=1a1b26&colorB=9ece6a&style=for-the-badge"></a>
 </p>
 
-![Nocturne Theme Preview](assets/preview.jpg)
-
 ## Previews
 
 <p align="center">
