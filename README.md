@@ -14,15 +14,15 @@
 
 <details>
 <summary>☀️ Light</summary>
-<img src="assets/light.jpg"/>
+<img src="assets/light.jpg" width="600"/>
 </details>
 <details>
 <summary>🌊 Navy</summary>
-<img src="assets/navy.jpg"/>
+<img src="assets/navy.jpg" width="600"/>
 </details>
 <details>
 <summary>🖤 Obsidian</summary>
-<img src="assets/obsidian.jpg"/>
+<img src="assets/obsidian.jpg" width="600"/>
 </details>
 
 ## Usage
