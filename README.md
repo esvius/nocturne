@@ -39,19 +39,10 @@
 
 3. Enable the theme and enjoy!
 
-```
-
 ## 🙋 FAQ
 
 - Q: **_"Can this get my account banned?"_**
 - A: Using third party clients and injecting custom CSS is against the ToS. While nobody has ever been banned for simply using Discord client mods, we are not responsible for anything that might happen to your account by using third party clients. Use at your own discretion!
-
-  ```css
-  @import url("https://esvius.github.io/nocturne/dist/nocturne-obsidian.theme.css")
-  (prefers-color-scheme: dark);
-  @import url("https://esvius.github.io/nocturne/dist/nocturne-light.theme.css")
-  (prefers-color-scheme: light);
-  ```
 
 ## 💝 Thanks to
 
