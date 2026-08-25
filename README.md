@@ -14,9 +14,14 @@
 
 <table align="center">
   <tr>
-    <td align="center">☀️ <b>Light</b><br/><img src="assets/light.jpg" height="300"/></td>
-    <td align="center">🌊 <b>Navy</b><br/><img src="assets/navy.jpg" height="300"/></td>
-    <td align="center">🖤 <b>Obsi</b><br/><img src="assets/obsidian.jpg" height="300"/></td>
+    <th align="center">☀️ <b>Light</b></th>
+    <th align="center">🌊 <b>Navy</b></th>
+    <th align="center">🖤 <b>Obsidian</b></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/light.jpg" height="300"/></td>
+    <td align="center"><img src="assets/navy.jpg" height="300"/></td>
+    <td align="center"><img src="assets/obsidian.jpg" height="300"/></td>
   </tr>
 </table>
 
