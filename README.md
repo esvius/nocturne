@@ -54,5 +54,5 @@ https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/themes/obsidia
 
 &nbsp;
 
-<p align="center">Copyright &copy; 2026-present</p>
+<p align="center">Copyright &copy; 2026</p>
 <p align="center"><a href="https://github.com/esvius/nocturne/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=1a1b26&colorB=7aa2f7"/></a></p>
