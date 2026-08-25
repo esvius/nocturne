@@ -25,6 +25,15 @@
 <img src="assets/obsidian.jpg" height="300"/>
 </details>
 
+
+<table align="center">
+  <tr>
+    <td align="center">☀️ <b>Light</b><br/><img src="assets/light.jpg" height="300"/></td>
+    <td align="center">🌊 <b>Navy</b><br/><img src="assets/navy.jpg" height="300"/></td>
+    <td align="center">🖤 <b>Obsidian</b><br/><img src="assets/obsidian.jpg" height="300"/></td>
+  </tr>
+</table>
+
 ## Usage
 
 ### Kettu / Rain / etc.
