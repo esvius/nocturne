@@ -14,9 +14,9 @@
 
 <table align="center">
   <tr>
-    <th align="center">☀️ <b>Light</b></th>
-    <th align="center">🌊 <b>Navy</b></th>
-    <th align="center"width="300">🖤 <b>Obsidian</b></th>
+    <th align="center" width="%80">☀️ <b>Light</b></th>
+    <th align="center" width="%80">🌊 <b>Navy</b></th>
+    <th align="center" width="%80">🖤 <b>Obsidian</b></th>
   </tr>
 </table>
 <table align="center">
