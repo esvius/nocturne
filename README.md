@@ -16,7 +16,7 @@
   <tr>
     <th align="center">☀️ <b>Light</b></th>
     <th align="center">🌊 <b>Navy</b></th>
-    <th align="center">🖤 <b>Obsidian</b></th>
+    <th align="center">🖤 <b>Obsidian</b> height="300" </th>
   </tr>
 </table>
 <table align="center">
