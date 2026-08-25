@@ -31,9 +31,9 @@
 
 1. Copy raw link your preferred flavour:
 
-- ☀️ [Light]
-- 🌊 [Navy]
-- 🖤 [Obsidian]
+- ☀️ [Light](https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Light.theme.json)
+- 🌊 [Navy](https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Navy.theme.json)
+- 🖤 [Obsidian](https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Obsidian.theme.json)
 
 2. Open your Kettu / Rain etc. and go to themes and add them.
 
