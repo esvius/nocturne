@@ -1,5 +1,5 @@
 <h3 align="center">
-	Nocturne for <a href="https://discord.com/">Discord</a>
+	Nocturne for <a href="https://discord.gg/WehrvxdF27">Discord</a>
 </h3>
 
 <p align="center">
