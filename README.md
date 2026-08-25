@@ -35,9 +35,12 @@ Light
 ```bash
 https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Light.theme.json
 ```
+
 Navy
-```bash https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Navy.theme.json
+```bash
+https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Navy.theme.json
 ```
+
 Obsidian
 ```bash
 https://raw.githubusercontent.com/esvius/nocturne/refs/heads/main/Nocturne%20-%20Obsidian.theme.json
