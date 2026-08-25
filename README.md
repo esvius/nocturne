@@ -14,7 +14,7 @@
 
 <details>
 <summary>☀️ Light</summary>
-<img src="assets/light.jpg" width="600"/>
+<img src="assets/light.jpg" height="600"/>
 </details>
 <details>
 <summary>🌊 Navy</summary>
