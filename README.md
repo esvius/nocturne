@@ -16,9 +16,9 @@
   <tr>
     <th align="center">☀️ <b>Light</b></th>
     <th align="center">🌊 <b>Navy</b></th>
-    <th align="center">🖤 <b>Obsi</b></th>
+    <th align="center">🖤 <b>Obsidian</b></th>
   </tr>
-
+   <br>
   <tr>
     <td align="center"><img src="assets/light.jpg" height="300"/></td>
     <td align="center"><img src="assets/navy.jpg" height="300"/></td>
